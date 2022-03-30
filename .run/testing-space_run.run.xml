@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="cli:build" type="GoApplicationRunConfiguration" factoryName="Go Application" activateToolWindowBeforeRun="false">
+    <module name="fhl" />
+    <working_directory value="$PROJECT_DIR$/cmd/cli" />
+    <go_parameters value="-o ..\..\bin\fhl.exe" />
+    <kind value="DIRECTORY" />
+    <package value="github.com/Insulince/fhl/cmd" />
+    <directory value="$PROJECT_DIR$/cmd/cli" />
+    <filePath value="$PROJECT_DIR$" />
+    <output_directory value="$PROJECT_DIR$/bin" />
+    <option name="run" value="false" />
+    <method v="2">
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Increment Build Number" />
+    </method>
+  </configuration>
+</component>
